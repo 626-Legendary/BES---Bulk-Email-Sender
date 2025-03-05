@@ -1,7 +1,5 @@
 # BES---Bulk-Email-Sender v1.0
 
-# Bolide BES - Bulk Email Sender v1.0
-
 This software allows you to send bulk emails using a specified list of recipients. It simulates the process of creating and sending emails through a desktop email client, leveraging Python's `pyautogui` library for automation of keyboard and mouse actions.
 
 ## Features
